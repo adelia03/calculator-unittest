@@ -1,4 +1,4 @@
-# calculator-unittest
+# Calculator. (+unittest)
 
 Basic calculator with operations like (+.-.*,/). Used unittest to check programm. So this is my first unittest, that I written yourself.
 
